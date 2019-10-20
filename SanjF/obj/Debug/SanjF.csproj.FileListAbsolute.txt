@@ -1,0 +1,7 @@
+C:\D\FirstSanj\SanjF\SanjF\bin\Debug\SanjF.exe.config
+C:\D\FirstSanj\SanjF\SanjF\bin\Debug\SanjF.exe
+C:\D\FirstSanj\SanjF\SanjF\bin\Debug\SanjF.pdb
+C:\D\FirstSanj\SanjF\SanjF\obj\Debug\SanjF.csprojAssemblyReference.cache
+C:\D\FirstSanj\SanjF\SanjF\obj\Debug\SanjF.csproj.CoreCompileInputs.cache
+C:\D\FirstSanj\SanjF\SanjF\obj\Debug\SanjF.exe
+C:\D\FirstSanj\SanjF\SanjF\obj\Debug\SanjF.pdb
